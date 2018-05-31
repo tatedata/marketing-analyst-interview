@@ -1,5 +1,5 @@
 # Tate Marketing Analyst Technical Test
-This is the repository containing instructions and base data for a technical test for analysts 
+Congratulations on being selected to take part in this next stage. This is the repository containing instructions and base data for a technical test for the Marketing Data Analyst role. Please follow the instructions below to complete and submit the technical test. If you are successful at this stage, you will be invited to a final stage interview at Tate.
 
 # Set up
 
@@ -27,7 +27,7 @@ A few questions you might want to ask:
 
 Please return your code and results to osman.yilmaz@tate.org.uk.  
 
-The end-date for submissions is {}
+The end-date for submissions is {Friday 8th June}
 
 Please include either the Power BI Desktop Report file (.pbix) or the Excel spreadsheet.
 
