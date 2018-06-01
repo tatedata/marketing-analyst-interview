@@ -27,7 +27,7 @@ A few questions you might want to ask:
 
 Please return your code and results to osman.yilmaz@tate.org.uk.  
 
-The end-date for submissions is {Friday 8th June}
+The end-date for submissions is {Midnight Sunday 10 June}
 
 Please include either the Power BI Desktop Report file (.pbix) or the Excel spreadsheet.
 
