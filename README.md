@@ -34,7 +34,7 @@ While we expect the response you arrive at to be succinct, it is essential that 
 
 # Submission
 
-Please return a written response of 500 words or less, together with your code or the documentation of your process, to osman.yilmaz@tate.org.uk.
+Please return a written response of 500 words or less, together with your code or the documentation of your process, to wissam.aessa@tate.org.uk.
 
 The end-date for submissions is by Midnight on Sunday 30 September.
 
